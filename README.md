@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fabian</h1>
 <h3 align="center">I'm fullstack developer from Poland</h3>
+<p>Currently working on a virtual machine hosting service (ASP.NET / React)</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
