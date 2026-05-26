@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Fabian 👋</h1>
-<h3 align="center">Fullstack Developer · .NET / React / Docker</h3>
+<h3 align="center">Junior Fullstack Developer | C# / ASP.NET Core / React / PostgreSQL</h3>
 <p align="center">
-  Junior Fullstack Developer | C# / ASP.NET Core / React / PostgreSQL
   Open to full-time opportunities in Poznań or remote
 </p>
 
