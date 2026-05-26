@@ -1,9 +1,8 @@
 <h1 align="center">Hi, I'm Fabian 👋</h1>
 <h3 align="center">Fullstack Developer · .NET / React / Docker</h3>
 <p align="center">
-  Building production-ready web applications and tools.<br/>
-  Currently working on a VM hosting service (ASP.NET Core + React).<br/>
-  Based in Poznań, Poland 🇵🇱
+  Junior Fullstack Developer | C# / ASP.NET Core / React / PostgreSQL
+  Open to full-time opportunities in Poznań or remote
 </p>
 
 ---
@@ -27,5 +26,5 @@
 
 ### 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabian_Kur-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/fabian-kur-03274b248)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabian_Kur-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/fabian-kur/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-zenfix.pl-000000?style=flat&logo=vercel)](https://zenfix.pl)
